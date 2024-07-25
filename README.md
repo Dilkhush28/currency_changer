@@ -1,5 +1,15 @@
 # React + Vite
 
+code ko github me upload kar ne ke bad 
+-code ko update kaise kre->
+1st -> git add .
+2nd -> git commit -m "second"
+3rd -> git push
+
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
