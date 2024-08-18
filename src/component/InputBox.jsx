@@ -46,7 +46,7 @@ function InputBox({
                             {currency}
                             </option>
                     ))}
-                     // agar loop chahiye ho key ka hona jaruri h 
+                     // agar loop chahiye ho ,  key ka hona jaruri h 
                 </select>
             </div>
         </div>
